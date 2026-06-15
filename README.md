@@ -7,7 +7,6 @@ or any other reinforcement learning framework is used. The only third party
 libraries are NumPy for array math and Matplotlib for plots.
 
 - Name: Michael Kusi-Appiah
-- Index Number: 22424580
 - Course: DCIT 614 Reinforcement Learning
 - Assignment: Programming Assignment 1
 - GitHub Repository: https://github.com/mkusiappiah/frozen-lake-qlearning

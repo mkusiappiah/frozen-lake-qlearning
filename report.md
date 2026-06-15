@@ -3,7 +3,7 @@ title: "Frozen Lake from First Principles using Q-Learning"
 subtitle: |
   DCIT 614 Reinforcement Learning\
   Programming Assignment 1
-author: "Michael Kusi-Appiah (22424580)"
+author: "Michael Kusi-Appiah"
 date: "June 2026"
 geometry: margin=2.5cm
 fontsize: 11pt
@@ -12,7 +12,7 @@ urlcolor: blue
 linkcolor: blue
 ---
 
-**Name:** Michael Kusi-Appiah  22424580
+**Name:** Michael Kusi-Appiah
 
 **GitHub Repository:** [https://github.com/mkusiappiah/frozen-lake-qlearning](https://github.com/mkusiappiah/frozen-lake-qlearning)
 
