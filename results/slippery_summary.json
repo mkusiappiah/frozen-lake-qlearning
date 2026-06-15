@@ -1,0 +1,15 @@
+{
+  "hyperparameters": {
+    "alpha": 0.1,
+    "gamma": 0.99,
+    "epsilon_start": 1.0,
+    "epsilon_min": 0.01,
+    "epsilon_decay": 0.9998,
+    "max_steps": 200,
+    "is_slippery": true,
+    "seed": 42
+  },
+  "episodes": 50000,
+  "successful_episodes": 34330,
+  "train_success_rate_percent": 68.66
+}
