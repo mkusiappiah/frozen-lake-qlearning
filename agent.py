@@ -4,9 +4,6 @@ The agent stores action values in a table and updates them with the
 tabular Q-Learning rule:
 
     Q(s, a) <- Q(s, a) + alpha * [ r + gamma * max_a' Q(s', a') - Q(s, a) ]
-
-Author: Michael Kusi-Appiah
-Course: DCIT 614 - Reinforcement Learning
 """
 
 import random

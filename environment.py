@@ -2,9 +2,6 @@
 
 No Gymnasium, Gym, Stable Baselines, RLlib, or any RL framework is used.
 Only the Python standard library and NumPy.
-
-Author: Michael Kusi-Appiah
-Course: DCIT 614 - Reinforcement Learning
 """
 
 import random

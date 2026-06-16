@@ -7,9 +7,6 @@ their success-rate curves and reports final greedy evaluation results.
 
 Usage:
     python compare_exploration.py
-
-Author: Michael Kusi-Appiah
-Course: DCIT 614 - Reinforcement Learning
 """
 
 import os

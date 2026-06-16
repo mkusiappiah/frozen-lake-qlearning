@@ -2,9 +2,6 @@
 
 These functions read a trained Q-table and turn it into a greedy policy,
 then print that policy on the grid with arrows.
-
-Author: Michael Kusi-Appiah
-Course: DCIT 614 - Reinforcement Learning
 """
 
 import numpy as np

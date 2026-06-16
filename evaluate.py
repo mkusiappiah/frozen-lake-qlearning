@@ -7,9 +7,6 @@ successful runs over a set of episodes.
 Usage:
     python evaluate.py
     python evaluate.py --episodes 100 --q-table results/q_table.npy --slippery
-
-Author: Michael Kusi-Appiah
-Course: DCIT 614 - Reinforcement Learning
 """
 
 import os

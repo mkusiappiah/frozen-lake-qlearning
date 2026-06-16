@@ -6,9 +6,6 @@ print the learned policy, and write performance plots (Bonus Option B).
 Usage:
     python train.py
     python train.py --episodes 20000 --alpha 0.1 --gamma 0.99 --slippery
-
-Author: Michael Kusi-Appiah
-Course: DCIT 614 - Reinforcement Learning
 """
 
 import os
